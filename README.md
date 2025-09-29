@@ -1,6 +1,6 @@
 ## Hi there 👋
-- ✨☕ I’m currently learning to code with Java
-- 💻 I’m interested in product- and project management, digital transformation & learning more about new technologies
+✨☕ I’m currently learning to code with Java
+💻 I’m interested in product- and project management, digital transformation & learning more about new technologies
 
 ### ⚡ Fun fact
 Big fan of dinosaurs 🦕 and West Coast Swing 💃.  
