@@ -1,4 +1,5 @@
 ## Hi there 👋
+- ✨ I’m currently learning to code with Java 
 
 <!--
 **BettinaBu/BettinaBu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
