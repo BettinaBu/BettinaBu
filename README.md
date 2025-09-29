@@ -1,9 +1,9 @@
 ## Hi there 👋
-✨☕ I’m currently learning to code with Java
+✨☕ I’m currently learning to code with Java  
 💻 I’m interested in product- and project management, digital transformation & learning more about new technologies
 
 ### ⚡ Fun fact
-Big fan of dinosaurs 🦕 and West Coast Swing 💃.  
+Big fan of dinosaurs 🦕 and West Coast Swing 💃  
 Do they improve my coding skills? … not sure yet, but I keep trying 😎
 
 ### 📫 How to reach me
